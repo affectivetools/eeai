@@ -48,6 +48,6 @@ If you find this work useful in your research, please consider citing:
         title={{Affection}: Learning Affective Explanations for Real-World Visual Data},
         author={Achlioptas, Panos and Ovsjanikov, Maks and Guibas, Leonidas and
                 Tulyakov, Sergey},
-        journal = Conference on Computer Vision and Pattern Recognition (CVPR)
+        journal = Conference on Computer Vision and Pattern Recognition (CVPR),
         year={2023}
     }
