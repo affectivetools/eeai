@@ -1,0 +1,11 @@
+data:    
+    affection_data: # download at https://affective-explanations.org/#dataset
+        raw_file: /home/ubuntu/DATA/Affection/language/version_0/affection_raw_public_version_0.csv
+        preprocessed_file: /home/ubuntu/DATA/Affection/language/version_0/affection_preprocessed_public_version_0.csv
+        vocabulary_file: /home/ubuntu/DATA/Affection/language/version_0/vocabulary.pkl    
+    image_top_dirs: # see https://github.com/optas/eeai/blob/master/eeai/docs/Affection_Images.md
+        you_aaai_affective: /home/ubuntu/DATA/Affection/external_images/Emotion_Recognition_AAAI_2016/emotion_dataset
+        coco_affective: /home/ubuntu/DATA/Affection/external_images/COCO/2014
+        flickr30k_affective: /home/ubuntu/DATA/Affection/external_images/Flickr30k/flickr30k_images/flickr30k_images
+        visual_genome_affective: /home/ubuntu/DATA/Affection/external_images/Visual_Genome
+        emotional_machines_affective: /home/ubuntu/DATA/Affection/external_images/Emotional_Machines/raw_images
