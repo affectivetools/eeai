@@ -36,9 +36,9 @@ For this _bare-and-bones_ repo version, the ```setup.py``` lists the few straigh
 
 ## Using Affection's DATA
 
-1. For a detailed analysis of the content and structure of our annotations read this [readme file](./eeei/docs/Affection_Annotations.md).
+1. For a detailed analysis of the content and structure of our annotations read this [readme file](./eeai/docs/Affection_Annotations.md).
 
-2. You can use this [notebook](./eeei/notebooks/load_affection_annotations.ipynb) to load our annotations. _To visualize them you will need access to the image datasets Affection is built upon._ **First** read the above readme file, and then [this one](./eeei/docs/Affection_Images.md) for more information.
+2. You can use this [notebook](./eeai/notebooks/load_affection_annotations.ipynb) to load our annotations. _To visualize them you will need access to the image datasets Affection is built upon._ **First** read the above readme file, and then [this one](./eeai/docs/Affection_Images.md) for more information.
 
 
 ### Citation
