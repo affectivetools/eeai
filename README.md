@@ -1,6 +1,6 @@
 # Affection: Learning Affective Explanations for Real-World Visual Data
 
-![representative](https://github.com/optas/eeai/blob/master/material/Affection_8_birds.jpeg)
+![representative](https://github.com/affectivetools/eeai/blob/master/material/Affection_8_birds.jpeg)
 **Legal Disclaimer:** _The images shown above are included in the image-centric datasets covered by Affection (see below)._ **We do not have or claim any ownership or copyright right for these images.**
 
 ## Introduction
